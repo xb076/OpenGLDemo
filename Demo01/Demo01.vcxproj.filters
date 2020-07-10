@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="src\00.cpp" />
+    <ClCompile Include="src\01triangle.cpp" />
+    <ClCompile Include="src\02glew.cpp" />
+    <ClCompile Include="src\03shader.cpp" />
+    <ClCompile Include="src\04shader.cpp" />
+    <ClCompile Include="src\05ibo_error.cpp" />
+    <ClCompile Include="src\06uniform.cpp" />
+    <ClCompile Include="src\07vao.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\shaders\Basic.shader" />
+    <None Include="res\shaders\Uniform.shader" />
+  </ItemGroup>
+</Project>
