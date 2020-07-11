@@ -19,6 +19,7 @@
     <ClCompile Include="src\vendor\imgui\imgui_impl_glfw.cpp" />
     <ClCompile Include="src\tests\TestClearColor.cpp" />
     <ClCompile Include="src\tests\Test.cpp" />
+    <ClCompile Include="src\tests\TestTexture2D.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="src\IndexBuffer.h" />
@@ -321,6 +322,7 @@
     <ClInclude Include="src\vendor\imgui\imgui_impl_glfw.h" />
     <ClInclude Include="src\tests\Test.h" />
     <ClInclude Include="src\tests\TestClearColor.h" />
+    <ClInclude Include="src\tests\TestTexture2D.h" />
   </ItemGroup>
   <ItemGroup>
     <None Include="res\shaders\Basic.shader" />
